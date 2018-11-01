@@ -1,2 +1,3 @@
 # Parameter-Estimation
-Parameter estimation by optimizing the Divergence functions.
+Campared the robustness of Three Divergence on the Outliers.
+Detailed Explaination of the following method can be found at the attached PDF.
